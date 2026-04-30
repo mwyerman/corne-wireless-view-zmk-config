@@ -70,9 +70,9 @@
                 bracket_layer {
                         display-name = "Bracket";
                         bindings = <
-   &kp TILDE    &none    &none    &kp LBRC    &kp RBRC    &none           &none    &none    &none    &none     &none      &none 
-   &kp GRAVE    &none    &none    &kp LPAR    &kp RPAR    &none           &none    &kp LGUI &kp LALT &kp LCTRL &kp LSHFT  &none 
-   &none        &none    &none    &kp LBKT    &kp RBKT    &none           &none    &none    &none    &none     &none      &none 
+   &none    &kp TILDE    &none    &kp LBRC    &kp RBRC    &none           &none    &none    &none    &none     &none      &none 
+   &none    &kp GRAVE    &none    &kp LPAR    &kp RPAR    &none           &none    &kp LGUI &kp LALT &kp LCTRL &kp LSHFT  &none 
+   &none    &none        &none    &kp LBKT    &kp RBKT    &none           &none    &none    &none    &none     &none      &none 
                      &none &none &none           &none &none &none
                         >;
                 };
